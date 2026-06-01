@@ -1,0 +1,30 @@
+# Python & Virtualenv
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+*.egg-info/ 
+*.egg 
+*.dist-info/ 
+*.so 
+*.manifest 
+*.spec 
+*.log 
+*.sqlite3 
+*.db 
+.env 
+.venv/ 
+venv/ 
+env/ 
+ENV/ 
+*.sqlite 
+*.sqlite3 
+# Node / npm
+node_modules/ 
+npm-debug.log 
+package-lock.json 
+# Build / Vite output
+frontend/dist/ 
+# OS files
+.DS_Store
+Thumbs.db

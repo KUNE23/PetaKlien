@@ -1,0 +1,25 @@
+{
+  "name": "petaklien-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173"
+  },
+  "dependencies": {
+    "@lucide/vue": "^1.17.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "vite": "^6.0.7",
+    "vue": "^3.5.13",
+    "vue-toastification": "^2.0.0-rc.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}
